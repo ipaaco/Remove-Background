@@ -23,6 +23,7 @@ Pre-trained ONNX model files.
 
 1. Environment Setup
 It is highly recommended to use a virtual environment.
+
 pip install onnxruntime opencv-python numpy
 
 2. Acquiring Model Weights
@@ -47,10 +48,10 @@ Runs segmentation on one or more static images, saving the result as a transpare
 python main_script.py -i input/chair.jpg -s output/
 Video Mode
 To process a video file or live webcam input:
-# Process webcam (index 0)
+
 python main_script.py --video 0
 
-# Process video file and save output
+
 python main_script.py --video input.mp4 -s output/output_video.mp4
 
 💻 Technical Summary
