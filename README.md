@@ -25,6 +25,7 @@ Pre-trained ONNX model files.
 It is highly recommended to use a virtual environment.
 # Install Dependencies
 pip install onnxruntime opencv-python numpy
+
 2. Acquiring Model Weights
 The required ONNX model files (isnet-general-use.onnx and dis.onnx) are hosted externally. Please download the weights from the following link and place them directly in your project's root directory:
 
