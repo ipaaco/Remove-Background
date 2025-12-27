@@ -1,7 +1,5 @@
 # Remove-Background
 🖼️ High-Performance AI Background Removal Tool
-![Uploading Screenshot 2025-12-27 035619.png…]()
-
 This project showcases a professional, optimized solution for foreground-background segmentation in both static images and video streams. Developed as a Master's research project, the core implementation utilizes the state-of-the-art DIS (or IS-Net) segmentation model to achieve highly accurate object isolation.
 
 The entire inference pipeline is meticulously optimized with ONNX Runtime for high-speed, efficient performance, making it suitable for real-time applications and batch processing workflows.
