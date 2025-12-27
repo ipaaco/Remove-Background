@@ -22,7 +22,7 @@ The required Python libraries.
 Pre-trained ONNX model files.
 
 1. Environment Setup
-It is highly recommended to use a virtual environment.
+It is highly recommended to use a virtual environment:
 
 pip install onnxruntime opencv-python numpy
 
