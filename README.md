@@ -23,7 +23,6 @@ Pre-trained ONNX model files.
 
 1. Environment Setup
 It is highly recommended to use a virtual environment.
-# Install Dependencies
 pip install onnxruntime opencv-python numpy
 
 2. Acquiring Model Weights
