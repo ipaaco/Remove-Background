@@ -28,7 +28,7 @@ pip install onnxruntime opencv-python numpy
 2. Acquiring Model Weights
 The required ONNX model files (isnet-general-use.onnx and dis.onnx) are hosted externally. Please download the weights from the following link and place them directly in your project's root directory:
 
-Model Weights Download Link
+Model Weights Download Link: https://mega.nz/folder/1T50TIpY#JS8cMj1lWx0aOE-89DqR9Q
 
 3. Utility Modules
 The main script relies on several custom utility modules. Ensure your project structure allows the script to access the following files within the remove_background_company/utils path:
